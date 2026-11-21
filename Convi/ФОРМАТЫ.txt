@@ -1,0 +1,63 @@
+Convi - поддерживаемые форматы: 871 расширений
+
+Звёздочка * - для этого формата нужен LibreOffice (или Word / PowerPoint для документов и презентаций).
+Любой файл с незнакомым расширением программа определяет по содержимому (картинка, видео, аудио, текст).
+
+== ФОТО И ГРАФИКА: 96 расширений. Можно сохранить как: JPG, PNG, WEBP, AVIF, BMP, GIF, TIFF, ICO, PDF
+ai* apng avif avifs blp bmp bw cdr* cgm* cmx* cur dcx dds dib dxf* emf* eps* exr fh* fit fits flc
+fli fodg* ftc ftu gbr gif hdr heic heif hif icb icns ico iim im j2c j2k jfi jfif jif jp2 jpc jpe
+jpeg jpf jpg jpx jxl mpo msp odg* otg* palm pam pbm pcd pcx pfm pgm pic pict png pnm ppm ps* psd
+pub* pxr qoi ras rgb rgba sgi std* sun svg svgz sxd* tga tif tiff vda vdx* vsd* vsdm* vsdx* wbmp
+webp wmf* wpg* xbm xcf* xpm xwd
+
+== ВИДЕО: 109 расширений. Можно сохранить как: MP4, AVI, MKV, MOV, WEBM, WMV, GIF, MP3, WAV
+264 265 3g2 3gp 3gp2 3gpp 3gpp2 amv av1 avc avi bik cin dat divx drc dv dvr dvr-ms evo f4p f4v film
+flic flv flx gxf h264 h265 hevc isma ismv ivf ivr ktx lrf lrv m1v m2p m2t m2ts m2v m4v mjp mjpeg
+mjpg mk3d mkv mod mov mp2v mp4 mp4v mpe mpeg mpg mpg4 mpl mpv mpv2 mqv mts mtv mv mvi mxf nsv nut
+obu ogm ogv ogx pva qt rec rm rms rmvb roq rv sbk seq smk str thp tod tp trp tvs usm vc1 vc2 vdr vid
+vob vp6 vp8 vp9 webm wm wmv wmx wtv wvx xesc xmv xvid y4m yuv
+
+== АУДИО: 126 расширений. Можно сохранить как: MP3, WAV, OGG, FLAC, M4A, AAC, OPUS, WMA
+3ga aa aac aax ac3 act adt adts adx afc aif aifc aiff amr ape at3 at9 au avr awb bit brstm bwav bwf
+c2 caf cdda daud dff dsd dsf dss dtk dts dtshd dtsma dvd eac3 ec3 fap ffmetadata fla flac g722 g723
+g726 g729 gdm gsm hca ircam kar la lyra m4a m4b m4p m4r mac mid midi mka mks mlp mmf mp+ mp1 mp2 mp3
+mp4a mpa mpc mpga mpp msbc mt2 ofr ofs oga ogg oma omg opus paf pcm pvf qcp ra ram rax rf64 rsd rso
+sbc sd2 sds sf sln smp snd spdif sph spx tak tco thd truehd tta tvd txw vag voc vox vqf w64 wady wav
+wave weba wma wv wvc wve xa xmf xvag
+
+== ДОКУМЕНТЫ, ТЕКСТ И КОД: 374 расширений. Можно сохранить как: PDF, DOCX, TXT, HTML, MD, RTF, JPG, PNG
+602* abap abw* ada adb adoc ads agda asc asciidoc ascx asd ashx asm asp aspx ass astro atom authors
+awk axaml babelrc bas bash bat bazel bbl bib bicep bsv build bzl c c++ cabal cairo cbl cc cfc cfg
+cfm changelog cjs cl clj cljc cljs cls cmake cmd cob coffee conf config coq cpp cr cs csh cshtml
+cson csproj css cue cxx d dart ddl dfm dhall diff diz doc* dockerfile dockerignore docm* docx dot*
+dotm* dotx* dpr dtd dtx editorconfig edn ejs el elm entitlements env erb erl eslintrc ex exs f f03
+f08 f90 f95 fasl fb2* fish fodt* for frm fs fsi fsproj fsscript fsx ftn fun gawk gemfile gemspec
+geojson gitattributes gitignore gitmodules gn gni go gp gql gradle graphql groovy h h++ haml hbs hcl
+hh hpp hrl hs htaccess htm html hwp* hx hxml hxx iced idr inc ini ino ins ipynb jade java
+jenkinsfile jl js json json5 jsonc jsonl jsonnet jsp jspx jsx ksh kt kts latex lean less lhs
+libsonnet license liquid lisp litcoffee lock log lpr lrc ls lsp ltx lua lwp* m make makefile
+markdown master mcw* md mdown mdx meson mjs mk mkd ml mli mll mlt mly mm move mustache mw* nasm
+ndjson nfo nim ninja nix njk nl npmrc ocaml odm* odt opam org oth* ott* owl p4 pages* pas patch
+pbxproj pdb* pde pdf php php3 php4 php5 phtml pl plg plist plsql pm pod podspec pp prettierrc prn
+pro procfile prolog properties props proto ps1 psd1 psm1 psql psw* pug purs pxd py pyi pyw pyx r
+rake rakefile razor rb rbw rdf re readme reason rego rei rej res resx rkt rmd rs rss rst rtf s sass
+sbt sbv sc scala scm scrbl scss sdw* sed sgl* sh slim smi sml sol sql srt ss ssa stack star strings
+stw* sty styl sub sum sv svelte svh swift sxg* sxw* t tab targets tcl tcsh tex text tf tfvars thrift
+thy tk tm todo toml tpl tsx twig txt uot* v vagrantfile vb vba vbe vbproj vbs vcxproj verilog vhd
+vhdl vor* vtt vue vy workspace wpd* wps* wpt* wsf xaml xcconfig xhtml xml xsd xsl xslt yaml yml
+zabw* zig zsh
+
+== ТАБЛИЦЫ: 32 расширений. Можно сохранить как: XLSX, CSV, PDF, HTML, JSON
+123* csv dbf* dif* fods* gnumeric* numbers* ods ots* qpw* slk* stc* sxc* sylk* tsv uos* wb1* wb2*
+wk1* wk3* wk4* wks* wq1* wq2* xls xlsb* xlsm xlsx xlt* xltm* xltx* xlw*
+
+== ПРЕЗЕНТАЦИИ: 22 расширений. Можно сохранить как: PDF, PPTX, TXT, DOCX
+dps* dpt* fodp* key* odp* otp* pot* potm* potx* pps* ppsm* ppsx* ppt* pptm* pptx prz* sda* sdd* shw*
+sti* sxi* uop*
+
+== МЕДИА, ОПРЕДЕЛЯЕМОЕ ПО СОДЕРЖИМОМУ (FFmpeg): 112 расширений
+266 302 722 aa3 ac4 acm adf adp aea aix al ans apc apl aptx aptxhd art asf ast avs avs2 avs3 bcstm
+bfstm binka bmv bonk cdata cdg cdxl cgi cif dav dfpwm evc flm fsb fwse g723_1 genh h261 h266 h26l
+iamf ice idf ifv imx ipu ism kux laf lvf m2a mca mcc mj2 mods moflex mpl2 msf mtaf musx mxg nist nsp
+osq pdv pjs psp qcif qoa rco rcv rka rt sami sb sbg scc sdns sdr2 sdx ser sga shn son ss2 stl sup
+svag svs sw ty ty+ ub ul uw v210 viv vpk vqe vql vt vvc wa way wsd xl xmd yop yuv10
