@@ -12,7 +12,9 @@
 [Скачать последнюю версию Convi](https://github.com/AVI-CON/Convi/releases/latest)
 
 Windows 10 / 11 · 64-bit
+
 ---
+
 ## Проверка совместимости
 
 Convi разрабатывается и тестируется на Windows.
